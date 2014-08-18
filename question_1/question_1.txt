@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone is used when you wish to collaborate with someone on a project and need to work with their code locally on your own machine. YoIt will create a copy of the git repository on your computer which will then enable you to modify the code.
