@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a line of commits separate from your original master branch. They can be used when you (or others) wish to work on different sections of the same project at the same time or to work on different discrete aspects of the code. 
